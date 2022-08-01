@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/alejoacosta2000/01.az-tutorial/_apis/build/status/alejoacosta74.js-e2e-express-server?branchName=main)](https://dev.azure.com/alejoacosta2000/01.az-tutorial/_build/latest?definitionId=1&branchName=main)
+
 ---
 page_type: sample
 languages:
